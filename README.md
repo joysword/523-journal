@@ -1,5 +1,6 @@
 # CS 523 Multimedia Systems
-###### Spring 2017, instructor: Prof. Angus Forbes
+###### spring 2017
+###### instructor: Prof. Angus Forbes
 
 ## Directories
 currently, the repo structure mimics that of CS 524 journal, but it will updates as the class goes on
