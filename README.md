@@ -1,5 +1,5 @@
 # CS 523 Multimedia Systems
-###### spring 2017
+##### spring 2017
 ###### instructor: Prof. Angus Forbes
 
 ## Directories
